@@ -1,0 +1,11 @@
+The item is not repairable safely, mark as "scrap".
+The item needs immediate repair, apply whetting and overlay welding, if in doubt refer to welding manual for details.
+There was something hanging onto the axle while the wagon was moving, look for loss of parts. The axle should be scrapped.
+The item cannot be used. Sharp edges are unsafe as they may act as stress concentration points. Apply whetting and overlay welding, if in doubt refer to welding manual for details.
+Result of intense breaking.
+Burns may result from overheating or improper welding during repair. The structure of the metal may have changed as a result. Further examination (metallography) may be necessary. Mark as "scrap".
+If a single deep corrosion mark is visible that can be a result of contact with corrosive chemicals. The item cannot be used.
+Largely corroded items cannot be used or repaired, mark as "scrap".
+If it is shallow corrosion without crumbling rust, the axle is safe to use.
+Shallow smooth-edged impact marks are acceptable.
+Milling that is not all-round the axis is rather unusual, unlikely to occour by accident.

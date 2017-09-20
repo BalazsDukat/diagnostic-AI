@@ -1,0 +1,21 @@
+ROOT axle wheel
+axle cracked wear_marks corroded impact_marks milling burns
+wheel wear_marks cracked
+impact_marks deeper_than_2mm sharp-edged
+wear_marks deeper_than_2mm
+corroded on_large_surface heavily
+milling deeper_than_2mm sharp-edged all-round
+ROOT
+axle
+wheel
+cracked
+corroded
+impact_marks
+milling
+burns
+wear_marks
+deeper_than_2mm 
+sharp-edged 
+all-round
+on_large_surface 
+heavily

@@ -1,0 +1,11 @@
+cracked
+deeper_than_2mm
+axle ( milling ( all-round ) )
+sharp-edged
+wheel ( wear_marks )
+burns
+axle ( corroded ( heavily ) )
+axle ( corroded ( on_large_surface heavily ) )
+axle ( corroded )
+impact_marks
+axle ( milling )
