@@ -1,7 +1,7 @@
 #include "linker.h"
 
-Record* database_reader() //returns only the root of the tree
-{ifstream inFs("menu.txt");
+Record* menu_reader() //returns only the root of the tree
+{ifstream inFs("menu.txt"); //Simplify this.
 string tempS;
 vector<Record*> V;
 //reader/stores into a vector
