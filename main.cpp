@@ -15,7 +15,7 @@ using namespace std;
 #include "evaluate.h"
 
 int main()
-{Record* ROOT = database_reader();
+{Record* ROOT = menu_reader();
 cout << query(ROOT);
 vector<Rule> Rules = rule_reader();
 finder(ROOT,Rules);
